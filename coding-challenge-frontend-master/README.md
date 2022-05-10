@@ -111,4 +111,24 @@ What would you do if you had more time? Which trade-offs did you take? What arch
 
 Have fun!
 
+I started the task at 15:20 and finished exactly 3 hours later at 18:20. 
+
+In the last task, I still didn’t understand how to use the API from JSON through your server 
+that you suggested, and therefore I decided to do it through a variable,
+it turned out to be easier because I spent 20 minutes trying to use this server 
+and extracting data from it and didn't understand how it should work in the end.
+ 
+I didn't have time to put some styles in order and optimize applications, but that's 
+what I did because I spent a lot of time on the first task without understanding 
+how to reproduce it at all and check it. 
+I spent only one hour on the last task therefore, not everything was finished. 
+With the second task I haven't problems. I completed it quickly, but still 
+I couldn’t make up enough time to fully complete the third task. 
+For the third task in an hour and a half is very little 
+there is still needed for one more hour just to fit the styles so that they are ideal ,
+you also need to spend about 2 or 3 hours on the user tab 
+and the working functionality of interactive elements In general. 
+
+It turned out how it turned out I give you an assessment.I'll wait feedback from you
+
 

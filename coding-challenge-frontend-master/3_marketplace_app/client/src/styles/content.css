@@ -1,0 +1,25 @@
+body{
+    background: #f4f4f4;
+}
+
+.contentContainer {
+    width: 70%;
+    margin: 24px auto 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.goodsItem{
+    text-align: center;
+    background: #FFFFFF;
+    margin: 0 10px 10px 0;
+    cursor: pointer;
+}
+
+.goodsItem p {
+    font-weight: bold;
+}
+.goodsItem p:last-child {
+    font-weight: normal;
+    color: #797979
+}
